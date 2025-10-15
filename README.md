@@ -1,8 +1,8 @@
 # Embedded-Assignments
 
-Assignments for **Embedded and Real-time Systems**
-Instructor: *Dr. attarzadeh*
-University: Shahid Beheshti University (SBU)
++ Assignments for **Embedded and Real-time Systems**
++ Instructor: *Dr. attarzadeh*
++ University: Shahid Beheshti University (SBU)
 
 ---
 
