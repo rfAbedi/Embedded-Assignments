@@ -1,0 +1,46 @@
+%implements "chartSource" "C"
+%function ChartConfig(block, system) void
+  %createrecord chartConfiguration { ...
+          executeAtInitialization  0 ...
+  }
+  %return chartConfiguration
+%endfunction
+%function ChartDataMap(block, system) void
+  %createrecord ChartDataElements {\
+    NumChartData   4 \
+    ChartDataDefaults {\
+      RecordType   "ChartData"\
+      Dimensions   []\
+      IsTestPoint  0\
+    }\
+    ChartData {\
+      Name         "is_active_c1_ex4_statecart"\
+      Description  "StateIsActive"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_c1_ex4_statecart"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_Mode"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "Op.Mode"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_Vol"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "Op.Vol"\
+      SrcLocation  ""\
+    }\
+  }
+  %return ChartDataElements
+%endfunction

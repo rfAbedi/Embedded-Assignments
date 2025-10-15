@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../ex7/Q1 Codes"
+		},
+		{
+			"name": "UNO",
+			"path": "../ex7/PlatformIO/UNO"
+		},
+		{
+			"name": "Mega2560",
+			"path": "../ex6/PlatformIO/Mega2560"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,53 @@
+ex4_statecart_data.o: \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex3/ex4_statecart_ert_rtw/ex4_statecart_data.c \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex3/ex4_statecart_ert_rtw/ex4_statecart.h \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex3/ex4_statecart_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex3/ex4_statecart_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h \
+ C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_AnalogIn.h \
+ C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_SVD.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~1/include/MW_arduino_digitalio.h \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex3/ex4_statecart_ert_rtw/ex4_statecart_types.h \
+ C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_SVD.h \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex3/ex4_statecart_ert_rtw/MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_ArduinoHWInit.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~2/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/variants/mega/pins_arduino.h
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex3/ex4_statecart_ert_rtw/ex4_statecart.h:
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex3/ex4_statecart_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h:
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex3/ex4_statecart_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h:
+
+C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_AnalogIn.h:
+
+C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_SVD.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~1/include/MW_arduino_digitalio.h:
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex3/ex4_statecart_ert_rtw/ex4_statecart_types.h:
+
+C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_SVD.h:
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex3/ex4_statecart_ert_rtw/MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_ArduinoHWInit.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~2/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/variants/mega/pins_arduino.h:

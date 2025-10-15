@@ -1,0 +1,145 @@
+
+06-Jan-2025 16:22:57
+Checking compatibility for test generation: model 'ex4_statecart'
+Compiling model...done
+Building model representation...done
+
+06-Jan-2025 16:23:48
+'ex4_statecart' is compatible for test generation with Simulink Design Verifier.
+
+
+Generating tests using model representation from 06-Jan-2025 16:23:48...
+
+SATISFIED BY COVERAGE DATA
+Chart "Chart1"
+Substate executed State "Op"
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Chart "Chart1"
+Substate executed State "Shut"
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[stop == 1]{shut = 1; vol1 ..." from "Op" to "Shut"
+expression "stop == 1" false
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[stop == 1]{shut = 1; vol1 ..." from "Op" to "Shut"
+expression "stop == 1" true
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+State "Vol"
+Substate exited when parent exits "Vol1"
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+State "Mode"
+Substate exited when parent exits "Off"
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+State "Mode"
+Substate executed "Off"
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+State "Mode"
+Substate executed "On"
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[t_on == 1]{off = 0; on = 1}" from "Off" to "On"
+expression "t_on == 1" false
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[t_on == 1]{off = 0; on = 1}" from "Off" to "On"
+expression "t_on == 1" true
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[t_off == 1]{off = 1; on = 0}" from "On" to "Off"
+expression "t_off == 1" false
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[t_off == 1]{off = 1; on = 0}" from "On" to "Off"
+expression "t_off == 1" true
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+State "Vol"
+Substate executed "Vol1"
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+State "Vol"
+Substate executed "Vol2"
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[inc == 1]{vol1 = 0; vol2 = 1}" from "Vol1" to "Vol2"
+expression "inc == 1" false
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[inc == 1]{vol1 = 0; vol2 = 1}" from "Vol1" to "Vol2"
+expression "inc == 1" true
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[dec == 1]{vol1 = 1; vol2 = 0}" from "Vol2" to "Vol1"
+expression "dec == 1" false
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[dec == 1]{vol1 = 1; vol2 = 0}" from "Vol2" to "Vol1"
+expression "dec == 1" true
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[start == 1]{shut = 0;}" from "Shut" to "Op"
+expression "start == 1" false
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[start == 1]{shut = 0;}" from "Shut" to "Op"
+expression "start == 1" true
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[t_on == 1]{shut = 0}" from "Shut" to "On"
+expression "t_on == 1" false
+Analysis Time = 00:00:19
+
+SATISFIED BY COVERAGE DATA
+Transition "[t_on == 1]{shut = 0}" from "Shut" to "On"
+expression "t_on == 1" true
+Analysis Time = 00:00:19
+
+SATISFIED
+State "Vol"
+Substate exited when parent exits "Vol2"
+Analysis Time = 00:00:49
+
+SATISFIED
+State "Mode"
+Substate exited when parent exits "On"
+Analysis Time = 00:00:49
+
+
+06-Jan-2025 16:24:50
+
+Completed normally.
+
+Generating output files:
+
+06-Jan-2025 16:24:53
+Results generation completed.
+
+    Data file:
+    C:\Users\asus\Downloads\Simulink\sldv_output\ex4_statecart\ex4_statecart_sldvdata.mat
+

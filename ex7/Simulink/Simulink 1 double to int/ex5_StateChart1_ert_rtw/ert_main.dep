@@ -1,0 +1,41 @@
+ert_main.o: \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/ert_main.c \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/ex5_StateChart1.h \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/ex5_StateChart1_types.h \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_ArduinoHWInit.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~2/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/variants/mega/pins_arduino.h
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/ex5_StateChart1.h:
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h:
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h:
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/ex5_StateChart1_types.h:
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_ArduinoHWInit.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~2/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/variants/mega/pins_arduino.h:

@@ -1,0 +1,1 @@
+var modelInfo = {model:"ex5_StateChart1"};var modelHierarchy=[{model:"ex5_StateChart1",relativePath:"_internal.html",parent:"null"},];var AddCode = true;

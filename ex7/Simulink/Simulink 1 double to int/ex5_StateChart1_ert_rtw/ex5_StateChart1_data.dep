@@ -1,0 +1,23 @@
+ex5_StateChart1_data.o: \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/ex5_StateChart1_data.c \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/ex5_StateChart1.h \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h \
+ C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/ex5_StateChart1_types.h
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/ex5_StateChart1.h:
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h:
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h:
+
+C:/Users/erfuu/OneDrive/Courses/EMBEDD~1/EXERCI~1/ex7/Simulink/SIAE48~1/ex5_StateChart1_ert_rtw/ex5_StateChart1_types.h:
