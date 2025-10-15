@@ -1,6 +1,8 @@
 # Embedded-Assignments
 
-This repository contains assignments, projects, and lab exercises in **Embedded and Real-time Systems** course.
+Assignments for **Embedded and Real-time Systems**
+Instructor: *Dr. attarzadeh*
+University: Shahid Beheshti University (SBU)
 
 ---
 
